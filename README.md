@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=19&pause=1200&color=E8ECF2&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student;Exploring+AI%2FML+and+Data+Analytics;Python+%7C+SQL+%7C+Machine+Learning;Turning+ideas+into+working+projects" alt="Typing introduction" />
 
 <p>
-  <a href="https://www.linkedin.com/in/teerthe-paras-tirthe-7599a4313/"><img src="https://img.shields.io/badge/LinkedIn-Connect-20242B?style=for-the-badge&logo=linkedin&logoColor=E8ECF2" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/paras-tirthe-7599a4313/"><img src="https://img.shields.io/badge/LinkedIn-Connect-20242B?style=for-the-badge&logo=linkedin&logoColor=E8ECF2" alt="LinkedIn" /></a>
   <a href="mailto:teerthenandan@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-20242B?style=for-the-badge&logo=gmail&logoColor=E8ECF2" alt="Email" /></a>
   <a href="https://github.com/teertheparas01"><img src="https://img.shields.io/badge/GitHub-Follow-20242B?style=for-the-badge&logo=github&logoColor=E8ECF2" alt="GitHub" /></a>
 </p>
