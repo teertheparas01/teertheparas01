@@ -17,10 +17,10 @@
 
 <div align="center"><img src="./assets/about-glass.svg" width="100%" alt="About Paras, a curious engineer and practical builder" /></div>
 
-- 🌱 Strengthening my foundations in machine learning, Python, SQL and data analytics.
-- 🔭 Building projects that combine data, automation and thoughtful engineering.
-- 🎯 Focused on becoming internship-ready through consistent learning and hands-on work.
-- 🤝 Open to collaborating on meaningful projects.
+- Strengthening my foundations in machine learning, Python, SQL and data analytics.
+- Building projects that combine data, automation and thoughtful engineering.
+- Focused on becoming internship-ready through consistent learning and hands-on work.
+- Open to collaborating on meaningful projects.
 
 ## Tech stack
 
