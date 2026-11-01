@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/liquid-glass-banner.svg" alt="Paras - Building with data, code and curiosity" width="100%" />
+<img src="./assets/liquid-glass-banner.svg?v=4" alt="Paras - Building with data, code and curiosity" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=19&pause=1200&color=E8ECF2&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student;Exploring+AI%2FML+and+Data+Analytics;Python+%7C+SQL+%7C+Machine+Learning;Turning+ideas+into+working+projects" alt="Typing introduction" />
 
