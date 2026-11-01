@@ -2,12 +2,12 @@
 
 <img src="./assets/liquid-glass-banner.svg" alt="Paras - Building with data, code and curiosity" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=19&pause=1200&color=F28B96&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student;Exploring+AI%2FML+and+Data+Analytics;Python+%7C+SQL+%7C+Machine+Learning;Turning+ideas+into+working+projects" alt="Typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=19&pause=1200&color=E8ECF2&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student;Exploring+AI%2FML+and+Data+Analytics;Python+%7C+SQL+%7C+Machine+Learning;Turning+ideas+into+working+projects" alt="Typing introduction" />
 
 <p>
-  <a href="https://www.linkedin.com/in/teerthe-paras-tirthe-7599a4313/"><img src="https://img.shields.io/badge/LinkedIn-Connect-171b25?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:teerthenandan@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-171b25?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/teertheparas01"><img src="https://img.shields.io/badge/GitHub-Follow-171b25?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/teerthe-paras-tirthe-7599a4313/"><img src="https://img.shields.io/badge/LinkedIn-Connect-20242B?style=for-the-badge&logo=linkedin&logoColor=E8ECF2" alt="LinkedIn" /></a>
+  <a href="mailto:teerthenandan@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-20242B?style=for-the-badge&logo=gmail&logoColor=E8ECF2" alt="Email" /></a>
+  <a href="https://github.com/teertheparas01"><img src="https://img.shields.io/badge/GitHub-Follow-20242B?style=for-the-badge&logo=github&logoColor=E8ECF2" alt="GitHub" /></a>
 </p>
 </div>
 
@@ -29,10 +29,10 @@
 <br/><br/>
 <img src="https://skillicons.dev/icons?i=python,java,kotlin,mysql,git,github,androidstudio,vscode&theme=dark" alt="Python, Java, Kotlin, MySQL, Git, GitHub, Android Studio and VS Code" />
 <br/><br/>
-<img src="https://img.shields.io/badge/Pandas-Data%20Analysis-171b25?style=flat-square&logo=pandas&logoColor=E8EAF0" />
-<img src="https://img.shields.io/badge/NumPy-Scientific%20Python-171b25?style=flat-square&logo=numpy&logoColor=E8EAF0" />
-<img src="https://img.shields.io/badge/Scikit--learn-Machine%20Learning-171b25?style=flat-square&logo=scikitlearn&logoColor=E8EAF0" />
-<img src="https://img.shields.io/badge/Excel-Analytics-171b25?style=flat-square&logo=microsoftexcel&logoColor=E8EAF0" />
+<img src="https://img.shields.io/badge/Pandas-Data%20Analysis-20242B?style=flat-square&logo=pandas&logoColor=E8EAF0" />
+<img src="https://img.shields.io/badge/NumPy-Scientific%20Python-20242B?style=flat-square&logo=numpy&logoColor=E8EAF0" />
+<img src="https://img.shields.io/badge/Scikit--learn-Machine%20Learning-20242B?style=flat-square&logo=scikitlearn&logoColor=E8EAF0" />
+<img src="https://img.shields.io/badge/Excel-Analytics-20242B?style=flat-square&logo=microsoftexcel&logoColor=E8EAF0" />
 </div>
 
 ## Selected projects
@@ -53,8 +53,8 @@
 <div align="center">
 <img src="./assets/overview-glass.svg" width="100%" alt="Glass overview panel" />
 <br/><br/>
-<a href="https://github.com/teertheparas01?tab=repositories"><img src="https://img.shields.io/badge/Explore-Repositories-1a2230?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" /></a>
-<a href="https://github.com/teertheparas01?tab=stars"><img src="https://img.shields.io/badge/Explore-Stars-1a2230?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Explore stars" /></a>
+<a href="https://github.com/teertheparas01?tab=repositories"><img src="https://img.shields.io/badge/Explore-Repositories-252A32?style=for-the-badge&logo=github&logoColor=E8ECF2" alt="Explore repositories" /></a>
+<a href="https://github.com/teertheparas01?tab=stars"><img src="https://img.shields.io/badge/Explore-Stars-252A32?style=for-the-badge&logo=githubsponsors&logoColor=E8ECF2" alt="Explore stars" /></a>
 </div>
 
 ## Contribution trail
@@ -69,6 +69,6 @@
 
 *Learning in public. Building one project at a time.*
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff3348,50:171b25,100:0d1117&height=3&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:303640,50:171b25,100:0d1117&height=3&section=footer" width="100%" alt="" />
 
 </div>
